@@ -1,0 +1,5 @@
+#!/bin/bash -x
+
+echo "SOLVING USING SWITCH CASE STATEMENT"
+
+
