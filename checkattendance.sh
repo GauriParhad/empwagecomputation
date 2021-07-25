@@ -1,10 +1,10 @@
 #!/bin/bash -x
 randomvalue=$((RANDOM%2))
-if ((randomvalue == 0))
+if ((randomvalue == 1))
 then 
-	echo  "employee is absent" $randomvalue
+	echo  "employee is present" $randomvalue
 else
-	echo "employee is present" $randomvalue
+	echo "employee is absent" $randomvalue
 fi
 
 
