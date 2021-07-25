@@ -1,4 +1,5 @@
-#!/bin/bash -x
+
+o#!/bin/bash -x
 randomvalue=$((RANDOM%3))
 wageperhr=2
 fulldayhr=8
